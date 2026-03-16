@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0016-3sum-closest](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
@@ -32,4 +34,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
