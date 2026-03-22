@@ -51,6 +51,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
