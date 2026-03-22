@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -81,6 +82,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
