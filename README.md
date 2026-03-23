@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0018-4sum) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -118,4 +120,8 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
