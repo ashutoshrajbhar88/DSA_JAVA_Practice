@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0015-3sum) |
@@ -98,6 +99,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
