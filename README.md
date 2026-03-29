@@ -46,6 +46,7 @@
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
