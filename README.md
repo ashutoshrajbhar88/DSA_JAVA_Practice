@@ -68,6 +68,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
