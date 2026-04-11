@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -144,6 +146,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
