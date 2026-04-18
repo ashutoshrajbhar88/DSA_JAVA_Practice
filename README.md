@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
@@ -66,6 +67,7 @@
 | [0018-4sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -90,6 +93,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Stack
