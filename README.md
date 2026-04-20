@@ -33,6 +33,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
