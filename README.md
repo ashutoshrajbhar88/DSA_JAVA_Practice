@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0141-linked-list-cycle) |
@@ -212,6 +214,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
