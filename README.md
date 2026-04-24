@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
@@ -73,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
