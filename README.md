@@ -31,6 +31,7 @@
 | [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0986-interval-list-intersections) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -62,6 +63,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0986-interval-list-intersections) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -225,4 +227,8 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
