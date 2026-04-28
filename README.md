@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -233,4 +234,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
