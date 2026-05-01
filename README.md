@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
