@@ -125,6 +125,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
@@ -255,4 +256,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
