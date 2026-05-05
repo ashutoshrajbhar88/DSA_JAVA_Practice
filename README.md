@@ -132,6 +132,7 @@
 | [0402-remove-k-digits](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0402-remove-k-digits](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -261,8 +263,13 @@
 | ------- |
 | [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
