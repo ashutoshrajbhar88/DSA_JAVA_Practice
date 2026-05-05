@@ -41,6 +41,7 @@
 | [1288-remove-covered-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
@@ -202,6 +203,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
