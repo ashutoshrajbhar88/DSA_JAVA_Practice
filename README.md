@@ -39,6 +39,7 @@
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +186,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
