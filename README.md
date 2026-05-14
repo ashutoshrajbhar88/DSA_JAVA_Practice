@@ -44,6 +44,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -187,6 +188,7 @@
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
