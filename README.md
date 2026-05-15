@@ -29,6 +29,7 @@
 | [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
@@ -126,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -185,6 +188,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +197,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
