@@ -35,6 +35,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
@@ -190,6 +191,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
