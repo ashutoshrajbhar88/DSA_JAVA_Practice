@@ -321,6 +321,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,8 +347,10 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
