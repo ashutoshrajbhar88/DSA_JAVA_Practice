@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -239,6 +240,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
