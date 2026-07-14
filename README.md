@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
@@ -135,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
@@ -354,6 +356,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
