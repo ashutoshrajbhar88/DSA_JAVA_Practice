@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 | [0015-3sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
@@ -112,6 +114,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
@@ -223,6 +226,7 @@
 | [0001-two-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0141-linked-list-cycle) |
