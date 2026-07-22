@@ -19,6 +19,7 @@
 | [0039-combination-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0056-merge-intervals) |
@@ -254,6 +255,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
