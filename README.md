@@ -299,6 +299,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
