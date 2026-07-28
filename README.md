@@ -121,6 +121,7 @@
 | [0071-simplify-path](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -147,6 +148,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
@@ -288,6 +290,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
@@ -404,4 +408,8 @@
 | [0046-permutations](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
