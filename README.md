@@ -27,6 +27,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
