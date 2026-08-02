@@ -34,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -375,6 +377,7 @@
 | [0100-same-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -385,6 +388,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 ## Binary Tree
@@ -419,4 +423,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
