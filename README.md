@@ -81,6 +81,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0061-rotate-list) |
@@ -124,6 +125,7 @@
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
@@ -435,4 +437,20 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
