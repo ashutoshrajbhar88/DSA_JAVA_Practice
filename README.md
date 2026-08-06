@@ -113,6 +113,7 @@
 | [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
@@ -131,6 +132,7 @@
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -256,6 +258,7 @@
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
