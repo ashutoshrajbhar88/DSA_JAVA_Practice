@@ -68,6 +68,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
