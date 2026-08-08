@@ -40,6 +40,7 @@
 | [0216-combination-sum-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@
 | [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
@@ -259,6 +261,7 @@
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -358,6 +361,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -458,4 +462,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
