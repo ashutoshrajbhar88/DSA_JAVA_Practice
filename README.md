@@ -71,6 +71,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -338,6 +339,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
+| [1920-build-array-from-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1920-build-array-from-permutation) |
 ## Sweep Line
 |  |
 | ------- |
