@@ -470,5 +470,6 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
