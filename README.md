@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -343,6 +344,7 @@
 | [0009-palindrome-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
