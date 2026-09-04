@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int[][] merge(int[][] intervals) {
 
@@ -7,15 +5,24 @@ class Solution {
 
         List<int[]> result = new ArrayList<>();
 
-        for (int[] curr : intervals) {
+        int start = intervals[0][0];
+        int end = intervals[0][1];
 
-            if (result.isEmpty() || result.get(result.size() - 1)[1] < curr[0]) {
-                result.add(curr);
-            } else {
-                result.get(result.size() - 1)[1] =
-                        Math.max(result.get(result.size() - 1)[1], curr[1]);
+        for (int i = 1; i < intervals.length; i++) {
+
+            if (intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
+            }
+
+            else {
+                result.add(new int[]{start, end});
+
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
         }
+
+        result.add(new int[]{start, end});
 
         return result.toArray(new int[result.size()][]);
     }
