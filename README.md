@@ -27,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@
 | [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0242-valid-anagram) |
@@ -296,6 +298,7 @@
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -412,6 +415,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -456,6 +460,7 @@
 | [0022-generate-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0216-combination-sum-iii) |
 ## Memoization
