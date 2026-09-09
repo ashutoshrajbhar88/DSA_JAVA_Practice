@@ -23,6 +23,7 @@
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0074-search-a-2d-matrix) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
@@ -367,6 +369,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
 | [1920-build-array-from-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1920-build-array-from-permutation) |
