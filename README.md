@@ -525,4 +525,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
