@@ -528,5 +528,6 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
