@@ -1,10 +1,12 @@
 class Solution {
     public boolean isPalindrome(String s) {
+
         int left = 0;
         int right = s.length() - 1;
 
         while (left < right) {
 
+            // Skip non-letter and non-digit characters
             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
             }
@@ -13,7 +15,8 @@ class Solution {
                 right--;
             }
 
-            if (Character.toLowerCase(s.charAt(left)) != 
+            // Compare characters ignoring uppercase/lowercase
+            if (Character.toLowerCase(s.charAt(left)) !=
                 Character.toLowerCase(s.charAt(right))) {
                 return false;
             }
