@@ -164,6 +164,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [0054-spiral-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1920-build-array-from-permutation) |
 ## Sweep Line
 |  |
