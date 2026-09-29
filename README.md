@@ -68,6 +68,7 @@
 | [0739-daily-temperatures](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0766-toeplitz-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0904-fruit-into-baskets) |
@@ -260,6 +261,7 @@
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
@@ -549,4 +551,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1392-longest-happy-prefix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
