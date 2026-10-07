@@ -85,6 +85,7 @@
 | [1748-sum-of-unique-elements](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1920-build-array-from-permutation) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
@@ -179,6 +180,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0680-valid-palindrome-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
@@ -264,6 +266,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
 | ------- |
