@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -367,6 +368,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0137-single-number-ii) |
@@ -487,6 +489,7 @@
 | [0022-generate-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0216-combination-sum-iii) |
