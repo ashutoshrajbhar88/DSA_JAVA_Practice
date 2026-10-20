@@ -191,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
@@ -384,6 +385,7 @@
 | [0012-integer-to-roman](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -472,6 +475,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -487,6 +491,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
