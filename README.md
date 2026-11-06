@@ -212,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0225-implement-stack-using-queues) |
@@ -351,6 +352,7 @@
 | [0086-partition-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -460,6 +462,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
@@ -480,6 +483,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
@@ -519,6 +523,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
