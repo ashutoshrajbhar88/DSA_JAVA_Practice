@@ -199,6 +199,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
@@ -465,6 +466,7 @@
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
@@ -487,6 +489,7 @@
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0200-number-of-islands) |
@@ -529,6 +532,7 @@
 | [0113-path-sum-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
@@ -634,4 +638,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0005-longest-palindromic-substring) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
