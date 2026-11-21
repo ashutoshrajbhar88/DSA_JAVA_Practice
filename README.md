@@ -270,6 +270,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -390,6 +391,7 @@
 | [0090-subsets-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -471,6 +473,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -537,6 +540,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0543-diameter-of-binary-tree) |
