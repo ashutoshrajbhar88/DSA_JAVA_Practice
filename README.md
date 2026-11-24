@@ -61,6 +61,7 @@
 | [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -207,6 +208,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0845-longest-mountain-in-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -250,6 +252,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashutoshrajbhar88/DSA_JAVA_Practice/tree/master/0567-permutation-in-string) |
